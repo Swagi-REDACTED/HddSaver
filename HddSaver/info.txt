@@ -1,0 +1,12 @@
+{
+    "Name": "HDD Auto-Saver",
+    "ID": "hdd_saver",
+    "Author": "Blupillcosby",
+    "Description": "Automatically exports your save code to a text file on a specified hard drive every 60 seconds.",
+    "ModVersion": 1.0,
+    "GameVersion": 2.052,
+    "Date": "03/05/2026",
+    "Dependencies": [],
+    "LanguagePacks": ["EN"],
+    "AllowSteamAchievs": true
+}
